@@ -5,7 +5,7 @@ export const appState = createSlice({
   initialState: {
     creator: 'Agustin Wet',
     themeColor: '#1090ca',
-    fontColor: '#202020'
+    fontColor: '#fafafa'
   },
   reducers: {
     changeThemeColor: (state, action) => {

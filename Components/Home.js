@@ -17,7 +17,10 @@ const Home = ({ navigation }) => {
             >
                 <BlurView style={styles.blurStyles} tint='dark' intensity={100}>
                 <View style={styles.modalStyles}>
-                    <Text style={styles.modalContent}>CBU Alias : MACRO.WET.AGUSTIN</Text>
+                    <Text style={styles.modalContent}>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut metus sit amet ante fringilla pulvinar ac ac.
+                        Enviar $100 pesos a CBU : 12309981839103129
+                    </Text>
                     <CustomButton
                         text='Close'
                         style={{ alignSelf: 'center' }}
@@ -32,7 +35,7 @@ const Home = ({ navigation }) => {
             }}>
                 
                 <View>
-                    <Text style={styles.pageTitle}>Navigation Links</Text>
+                    <Text style={styles.pageTitle}>Menu</Text>
                     <View style={styles.buttonWrapper}>
                         <CustomButton 
                             text='Lista de Tareas'
@@ -83,12 +86,15 @@ const Home = ({ navigation }) => {
                         }}
                         />
                     </TouchableOpacity>
-                    <Pressable 
+                    <CustomButton
+                        text='Donaciones'
                         onPress={() => { setModalVisibility(true) }}
-                        style={styles.modalButton}
-                    >
-                        <Text style={{ color: Colors.font.white }}>Send me Money</Text>
-                    </Pressable>
+                        style={{
+                            width: '80%',
+                            marginVertical: 10,
+                            alignSelf: 'center'
+                        }}
+                    />
                 </View>
 
             </View>
