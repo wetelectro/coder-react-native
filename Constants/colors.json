@@ -1,0 +1,8 @@
+{
+    "mainColor" : "#1090ca",
+    "font" : {
+        "white" : "#fafafa",
+        "dark" : "#252525"
+    },
+    "dangerColor": "#DA3E1E"
+}

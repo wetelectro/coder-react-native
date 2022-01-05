@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Playstation 5",
+        "imgURL": "https://phantom-marca.unidadeditorial.es/12fa48b59666d14044cd6e4e6e2409c1/crop/0x0/1200x675/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/20/16400228317645.jpg",
+        "price": 580,
+        "resume": "Un aparato para jugar videojuegos echa por sony.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar."
+    },
+    {
+        "name": "Playstation 0",
+        "imgURL": "https://phantom-marca.unidadeditorial.es/12fa48b59666d14044cd6e4e6e2409c1/crop/0x0/1200x675/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/20/16400228317645.jpg",
+        "price": 80,
+        "resume": "Un aparato para jugar videojuegos echa por sony.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar."
+    },
+    {
+        "name": "Playstation 1",
+        "imgURL": "https://phantom-marca.unidadeditorial.es/12fa48b59666d14044cd6e4e6e2409c1/crop/0x0/1200x675/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/20/16400228317645.jpg",
+        "price": 140,
+        "resume": "Un aparato para jugar videojuegos echa por sony.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar."
+    },
+    {
+        "name": "Playstation 2",
+        "imgURL": "https://phantom-marca.unidadeditorial.es/12fa48b59666d14044cd6e4e6e2409c1/crop/0x0/1200x675/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/20/16400228317645.jpg",
+        "price": 320,
+        "resume": "Un aparato para jugar videojuegos echa por sony.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar."
+    },
+    {
+        "name": "Playstation 3",
+        "imgURL": "https://phantom-marca.unidadeditorial.es/12fa48b59666d14044cd6e4e6e2409c1/crop/0x0/1200x675/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/20/16400228317645.jpg",
+        "price": 260,
+        "resume": "Un aparato para jugar videojuegos echa por sony.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar."
+    },
+    {
+        "name": "Playstation 4",
+        "imgURL": "https://phantom-marca.unidadeditorial.es/12fa48b59666d14044cd6e4e6e2409c1/crop/0x0/1200x675/resize/1320/f/jpg/assets/multimedia/imagenes/2021/12/20/16400228317645.jpg",
+        "price": 370,
+        "resume": "Un aparato para jugar videojuegos echa por sony.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi molestie a odio vel porttitor. Donec blandit odio enim, in ullamcorper quam pharetra at. Nulla non consectetur ligula. Nunc sed pulvinar."
+    }
+]
